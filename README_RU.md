@@ -1,35 +1,33 @@
 # Flying Goose
-## About the Project
+## О проекте
 
-**Flying Goose** is a reimagining of the popular game *Flappy Bird*, developed by me using the Unity game engine in 2023.
-> ⚠️ *Unfortunately, the source code has been lost, but I still have the final build of the game available to play.*
-
-## How to Run
-To play the game yourself:
-1. Go to the **Releases** tab of this project on GitHub.
-2. Download the latest `.zip` file.
-3. Extract the contents of the archive to a location of your choice.
-4. Launch the game by double-clicking the `Flying Goose` executable file.
-
-## Gameplay and Controls
-After launching the project, you will enter the main menu. There are two buttons:
-+ **Start (Начать)** — starts the gameplay.
-+ **X button** — closes the game.
+Приложение **Flying Goose** - адаптация популярной игры *Flappy bird*, выполненная мною на игровом движке Unity в 2023 году. 
+> ⚠️ *К сожалению исходный код был утерян, но у меня остался финальный билд игры, в который можно поиграть*
+## Запуск игры
+Для того чтобы самостоятельно поиграть в игру:
+1. Перейдите во вкладку **Releases** проекта на GitHub.
+2. Скачайте актуальный `.zip` файл.
+3. Распакуйте содержимое архива в удобное для вас место.
+4. Запустите игру, дважды кликнув по исполняемому файлу `Flying Goose`.
+## Игровой процесс и Управление
+После запуска проекта, вы попадаете в меню. В меню две кнопки:
++ **Начать** - запускает игровой процесс.
++ **Кнопка с крестиком** - выход из приложения.
 
 ![menu](/MediaFiles/menu.png)
 
-### Gameplay
-+ Columns are generated randomly. 
-+ You earn +1 point for every column you pass.
-+ The higher your score, the faster the obstacles move.
+### Игровой процесс
++ Колонны генерируются случайным образом. 
++ За каждое преодоление колонны вы получаете +1 очко.
++ Чем больше счет, тем быстрее двигаются препятствия.
 
-**Controls:**
-+ `Space` or `LMB` — Jump.
-+ `R` — Restart (after a collision).
-+ `ESC` — Return to the main menu (after a collision).
+**Управление:**
++ `Прыжок` или `ЛКМ` - Прыжок.
++ `R` - Начать заново (после столкновения).
++ `ESC` - Выход в главное меню (после столкновения).
 
 ![gameplay](/MediaFiles/gameplay.gif)
 
-## Tech Stack
-**Game Engine:** Unity 2023  
-**Language:** C#
+## Технологии
+**Игровой движок:** Unity 2023  
+**Язык:** C#
