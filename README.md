@@ -1,4 +1,5 @@
 # Flying Goose
+[🇷🇺 На русском языке](README_RU.md)
 ## About the Project
 
 **Flying Goose** is a reimagining of the popular game *Flappy Bird*, developed by me using the Unity game engine in 2023.
@@ -24,9 +25,9 @@ After launching the project, you will enter the main menu. There are two buttons
 + The higher your score, the faster the obstacles move.
 
 **Controls:**
-+ `Space` or `LMB` — Jump.
-+ `R` — Restart (after a collision).
-+ `ESC` — Return to the main menu (after a collision).
++ `Space` or `LMB` - Jump.
++ `R` - Restart (after a collision).
++ `ESC` - Return to the main menu (after a collision).
 
 ![gameplay](/MediaFiles/gameplay.gif)
 
