@@ -5,8 +5,8 @@
 **Flying Goose** is a reimagining of the popular game *Flappy Bird*, developed by me using the Unity game engine in 2023.
 > :warning: *Unfortunately, the source code has been lost, but I still have the final build of the game available to play.*
 
-## How to Run
-To play the game yourself (**ONLY WINDOWS**):
+## How to Run (ONLY WINDOWS)
+To play the game yourself:
 1. Go to the **Releases** tab of this project on GitHub.
 2. Download the latest `.zip` file.
 3. Extract the contents of the archive to a location of your choice.
