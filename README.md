@@ -6,7 +6,7 @@
 > :warning: *Unfortunately, the source code has been lost, but I still have the final build of the game available to play.*
 
 ## How to Run
-To play the game yourself:
+To play the game yourself (**ONLY WINDOWS**):
 1. Go to the **Releases** tab of this project on GitHub.
 2. Download the latest `.zip` file.
 3. Extract the contents of the archive to a location of your choice.
