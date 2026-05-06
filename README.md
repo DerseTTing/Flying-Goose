@@ -35,5 +35,5 @@ After launching the project, you will enter the main menu. There are two buttons
 **Game Engine:** Unity 2023  
 **Language:** C#
 
-----------------------
-## :balloon::star2: `Made especially for Yuki` :star2::tada:
+------
+## :balloon::star2: **Made especially for Yuki** :star2::tada:
