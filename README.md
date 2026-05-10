@@ -37,6 +37,6 @@ After launching the project, you will enter the main menu. There are two buttons
 
 ------
 
-### :balloon::star2: **Made especially for Yuki** :star2::tada:
+### :balloon::star2: **Made for Yuki** :star2::tada:
 
 ---
